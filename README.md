@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sabrina-S-White
+- 👀 I’m interested in SQL and data analytics
+- 🌱 I’m currently learning SQL and Tableau
+- sabrina.scherma@gmail.com
