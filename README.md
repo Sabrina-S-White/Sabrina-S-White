@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabrina-S-White
+- 👋 Hi, I’m Sabrina White
 - 👀 I’m interested in working as a web developer! 
 - 🌱 I’m currently working through The Odin Project
 - sabrina.scherma@gmail.com
