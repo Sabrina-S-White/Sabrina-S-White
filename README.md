@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sabrina White
 - 👀 I’m interested in working as a web developer! 
-- 🌱 I’m currently working through The Odin Project
+- Proficient in HTML, CSS, JavaScript, Git, and Node.
 - sabrina.scherma@gmail.com
+- sabrina-white.com
