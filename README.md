@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabrina White
 - 👀 I’m interested in working as a web developer! 
-- Proficient in HTML, CSS, JavaScript, jQuery, Git, and Node.
+- Proficient in HTML, CSS, JavaScript, jQuery, Git, Google Firebase, and Node.
 - sabrina.scherma@gmail.com
 - sabrina-white.com
