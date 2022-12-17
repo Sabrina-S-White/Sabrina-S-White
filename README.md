@@ -1,4 +1,4 @@
 - Hi, I’m Sabrina White
-- Proficient in HTML, CSS, JavaScript, jQuery, Git, Google Firebase, and Node.
+- Proficient in HTML, CSS, JavaScript, React, jQuery, Git, Google Firebase, Node, and Bootstrap.
 - sabrina.scherma@gmail.com
 - sabrina-white.com
